@@ -1,4 +1,4 @@
-<h1>RESUME<h1>
+<h1 align = "center">RESUME<h1>
 
 <img src="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/images/panoramic/elon-musk-mars-inc-GettyImages-1476562177_542711_rtykkb.jpg" alt="Italian Trulli" width = "400" height="300">
 <h2>NAME : GURUNATH DESHPANDE</h2>
